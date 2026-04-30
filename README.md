@@ -1,9 +1,9 @@
 # ivanezequiel-bait912.github.io
-
+<!DOCTYPE html>
 <html lang="en">
     <head>        
         <meta charset="UTF-8">
-       
+        <title> PAGINA DE MESSI  </title>
     </head>
         <body>
             <h1> PAGINA DE MESSI </h1>
