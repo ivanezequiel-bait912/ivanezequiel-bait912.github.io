@@ -3,7 +3,7 @@
 <html lang="en">
     <head>        
         <meta charset="UTF-8">
-        <title> PAGINA DE MESSI  </title>
+       PAGINA DE MESSI  
     </head>
         <body>
             <h1> PAGINA DE MESSI </h1>
